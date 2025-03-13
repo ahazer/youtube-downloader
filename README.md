@@ -12,23 +12,22 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyaç 
 
 Gereksinimleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 
-```sh
-pip install -r requirements.txt
+` pip install -r requirements.txt` 
 
-Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
+
+## Uygulamayı çalıştırmak için aşağıdaki adımları izleyin:
 
 Projeyi klonlayın veya indirin.
 requirements.txt dosyasındaki bağımlılıkları yükleyin.
 Last.py dosyasını çalıştırın:
 
-```sh
-python Last.py
+`python Last.py`
 
-### Özellikler
+## Özellikler
 YouTube URL'si girerek video indirme
 İndirilecek videonun çözünürlüğünü seçme (360p, 480p, 720p, 1080p, 2K, 4K)
 Sadece ses (MP3) indirme seçeneği
 İndirme ilerlemesini gösteren progress bar ve detaylı durum bilgisi
 
-Katkıda Bulunma
+## Katkıda Bulunma
 Katkıda bulunmak isterseniz, lütfen bir pull request gönderin veya bir issue açın.
